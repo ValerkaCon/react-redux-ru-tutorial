@@ -2,6 +2,8 @@
 
 https://www.gitbook.com/book/maxfarseer/redux-course-ru/details
 
+## VK Photo Viewer (sort by likes, years)
+
 ### Requirements
 
 #### NodeJS 6.11.1
